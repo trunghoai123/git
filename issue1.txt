@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 text in main branch
+=======
+hahahaha this is text in issue1 branch
+>>>>>>> issue1
